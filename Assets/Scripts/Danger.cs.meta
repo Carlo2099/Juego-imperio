@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24e2070129ad89041b05c3c48d9306b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - manager: {instanceID: 0}
+  - sonidoPerderVida: {fileID: 8300000, guid: 5953729f28d2eb542ae0d09a000e9556, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

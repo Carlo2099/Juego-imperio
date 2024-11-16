@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: d96be98965ceecd4694c0b9b74815904
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 31
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8649
+        width: 622
+        height: 423
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff4edcefe5845f45a076f9b0a272644
+      internalID: 1851242486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 8651
+        width: 624
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1940e4254d47354f9d4082ce65b3cc2
+      internalID: -894389735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_3
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 8655
+        width: 630
+        height: 414
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f33db6c40d88bb48b86f487a470c65a
+      internalID: -583094746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 8649
+        width: 620
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9a3b2b07de3c46b271424ce42a4ee
+      internalID: -900107510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_6
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 8649
+        width: 620
+        height: 423
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867cece9aaffac40b56008db2a06a34
+      internalID: 982310436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8237
+        width: 496
+        height: 381
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d97d1c18a4747449985a69ce54564d
+      internalID: 1855027179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8239
+        width: 554
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b7e6b00752b64a913084918ce5ada
+      internalID: -513709837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7834
+        width: 582
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f3d619ca124643bdcde31716d3fef
+      internalID: 123602107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 7834
+        width: 571
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668542d3fb8d7da4e97c2fc4c70b23d7
+      internalID: 1055126683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_13
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 7319
+        width: 688
+        height: 518
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf810715eff5254095f763b9f7d8fa6
+      internalID: -2011572086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7320
+        width: 600
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8c435972905b429c4b44ada3775ba
+      internalID: -318914878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_16
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 7320
+        width: 549
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d97cc315ae0d4abc9e7b9a29d42bc
+      internalID: 882561949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_17
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 7320
+        width: 526
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb013be4c3673624aa89279e03f293c7
+      internalID: 1736545637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_18
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 7321
+        width: 510
+        height: 451
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9ae6732a3a2542b54fed035c5578f
+      internalID: -2030807906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6915
+        width: 613
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e7b41f0a381440988f2da66e8d465
+      internalID: -1530141280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6917
+        width: 589
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d004df062a6e94c9b9b9c1328d3b0d
+      internalID: -45319948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_21
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 6917
+        width: 567
+        height: 319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68adf10f3b5defb4fbb41924eed0c48f
+      internalID: -1153893952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6554
+        width: 606
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f32fbe11dda7445bb8fe3b4597fd74
+      internalID: 1475377038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_25
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 6554
+        width: 607
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d723fd7cce52264b88c71be77e5a791
+      internalID: -1937365610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_26
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 6554
+        width: 611
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e6cfe04c75d94ba97ccf417031e7e
+      internalID: -662187556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_27
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 6554
+        width: 607
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060fcac16fb69046a123a8b95211ff7
+      internalID: -312383331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6147
+        width: 613
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14f635b41e9d0499379bae275eee13
+      internalID: -1529566079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6151
+        width: 589
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b37f483ad8f8dd41ac78efbd0fb704e
+      internalID: 568718320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_30
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 6151
+        width: 567
+        height: 319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b48af83a28c9f428d4a9b5f3045e44
+      internalID: -827157253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5739
+        width: 554
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d1bf21fe5e09745861e95b575ad2f5
+      internalID: -1928541975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5741
+        width: 572
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a17b2b31ad39c45b8283d8f3b83be7
+      internalID: 1583230764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_34
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 5739
+        width: 549
+        height: 369
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1f4f7f05e7634f83569f5f9c135be
+      internalID: -541779997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_35
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 5729
+        width: 531
+        height: 368
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea9cfcab5f18b478bdd6502874d569
+      internalID: 1390329926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_36
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 5723
+        width: 583
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40566cd4fd83940865adfffb003699
+      internalID: 1276437372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5327
+        width: 549
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d743c8ddd30a4d8decf0abb989c5d
+      internalID: 863233638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4724
+        width: 543
+        height: 581
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9d486d8a486ca4db77760755adaa49
+      internalID: 650376352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_43
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 4718
+        width: 575
+        height: 448
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a941dfa4dcbd0249aa7a9b838cac426
+      internalID: 1572846102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_46
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 4703
+        width: 540
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b93d3c4ae6cef48869a00a3fd518f0
+      internalID: 560628751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4101
+        width: 379
+        height: 588
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a4bd1aa2f7fc408f2be88e299c214
+      internalID: -1643089793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_49
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 4100
+        width: 412
+        height: 569
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c0190d9ee26749a3651b5efc51cc8
+      internalID: -1496295016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_50
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 4100
+        width: 512
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013d285c17c1a843938360d2542a620
+      internalID: -1551511889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_51
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 4100
+        width: 569
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c231debf996454bb72f3d113abcbdb
+      internalID: -1853703046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_52
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 4086
+        width: 635
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3b51fa750a1349ab36ac7be85bec3
+      internalID: 653448740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312af50681b05ce48bdc66ab59328fa2
+      internalID: 1106780874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 662
+        height: 414
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b433ff2677ba45b7cbcce78474caf
+      internalID: -923948592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043
+        width: 587
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e1430dd4d31340a81c1c5c8e3b9e4
+      internalID: 80247346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 626
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2ac110864e194384126ab3e3e7d59
+      internalID: -1416969198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2656
+        width: 653
+        height: 527
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099f4ccf597b724a939f1aed18545c7
+      internalID: -215344788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2018
+        width: 403
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88d826924a58849b554d21413f9c63
+      internalID: -575743321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3661
+        width: 607
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c62635543a414c8e0c944b1046f5e
+      internalID: 1714069411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 490
+        width: 408
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d18ce648dc3904ab83caaaa32197e5
+      internalID: -1057944965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 353
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040bafd0178115145914af9d9ce33b1d
+      internalID: -979665279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_66
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1969
+        width: 474
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe89432e07d06b46a574e140869bb32
+      internalID: -1019854679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_67
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1548
+        width: 615
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc396f6daf870fc47a64a0a9e93c3137
+      internalID: -1674185216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_68
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3666
+        width: 611
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f014587ab8eb4aa788df5b79200f9
+      internalID: -225180299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_69
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1012
+        width: 474
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfdbff63853928478ef6b83d91e34e1
+      internalID: -1710922872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_70
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2
+        width: 355
+        height: 461
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ccd765968de043a302cc268d5a019
+      internalID: 450960789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_71
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2580
+        width: 514
+        height: 627
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb0584eaa293341b0a93239ff54e15
+      internalID: 1788661357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_72
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 7
+        width: 376
+        height: 465
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e688922f3ee48e4bb4bce6d20f7f68e
+      internalID: 285062791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_73
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 3655
+        width: 628
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7bc84cb82fe9741a93501d30e7a75f
+      internalID: 745670634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_74
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1039
+        width: 301
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37837275d56e28f44a594571d08a380e
+      internalID: 2008443107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_75
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3651
+        width: 656
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902e276dc8daaca449e1b329f907d254
+      internalID: 75743842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINAL - ORDENADO_76
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1039
+        width: 465
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a96683566469408026c3c3b9bb84f
+      internalID: 260993488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FINAL - ORDENADO_0: 1851242486
+      FINAL - ORDENADO_1: 46649277
+      FINAL - ORDENADO_10: 868716430
+      FINAL - ORDENADO_11: 123602107
+      FINAL - ORDENADO_12: 1055126683
+      FINAL - ORDENADO_13: -2011572086
+      FINAL - ORDENADO_14: -664972479
+      FINAL - ORDENADO_15: -318914878
+      FINAL - ORDENADO_16: 882561949
+      FINAL - ORDENADO_17: 1736545637
+      FINAL - ORDENADO_18: -2030807906
+      FINAL - ORDENADO_19: -1530141280
+      FINAL - ORDENADO_2: -894389735
+      FINAL - ORDENADO_20: -45319948
+      FINAL - ORDENADO_21: -1153893952
+      FINAL - ORDENADO_22: 1080195815
+      FINAL - ORDENADO_23: 1475377038
+      FINAL - ORDENADO_24: -1330971200
+      FINAL - ORDENADO_25: -1937365610
+      FINAL - ORDENADO_26: -662187556
+      FINAL - ORDENADO_27: -312383331
+      FINAL - ORDENADO_28: -1529566079
+      FINAL - ORDENADO_29: 568718320
+      FINAL - ORDENADO_3: -583094746
+      FINAL - ORDENADO_30: -827157253
+      FINAL - ORDENADO_31: -2036518346
+      FINAL - ORDENADO_32: -1928541975
+      FINAL - ORDENADO_33: 1583230764
+      FINAL - ORDENADO_34: -541779997
+      FINAL - ORDENADO_35: 1390329926
+      FINAL - ORDENADO_36: 1276437372
+      FINAL - ORDENADO_37: 863233638
+      FINAL - ORDENADO_38: 1857446293
+      FINAL - ORDENADO_39: 650376352
+      FINAL - ORDENADO_4: 178282651
+      FINAL - ORDENADO_40: -439887399
+      FINAL - ORDENADO_41: -603011452
+      FINAL - ORDENADO_42: 174953970
+      FINAL - ORDENADO_43: 1572846102
+      FINAL - ORDENADO_44: 933759670
+      FINAL - ORDENADO_45: -927239986
+      FINAL - ORDENADO_46: 560628751
+      FINAL - ORDENADO_47: 1739652244
+      FINAL - ORDENADO_48: -1643089793
+      FINAL - ORDENADO_49: -1496295016
+      FINAL - ORDENADO_5: -900107510
+      FINAL - ORDENADO_50: -1551511889
+      FINAL - ORDENADO_51: -1853703046
+      FINAL - ORDENADO_52: 653448740
+      FINAL - ORDENADO_53: 1106780874
+      FINAL - ORDENADO_54: -923948592
+      FINAL - ORDENADO_55: -1715498577
+      FINAL - ORDENADO_56: -206502770
+      FINAL - ORDENADO_57: -1614410466
+      FINAL - ORDENADO_58: 80247346
+      FINAL - ORDENADO_59: -1416969198
+      FINAL - ORDENADO_6: 982310436
+      FINAL - ORDENADO_60: 129723970
+      FINAL - ORDENADO_61: -215344788
+      FINAL - ORDENADO_62: -575743321
+      FINAL - ORDENADO_63: 1714069411
+      FINAL - ORDENADO_64: -1057944965
+      FINAL - ORDENADO_65: -979665279
+      FINAL - ORDENADO_66: -1019854679
+      FINAL - ORDENADO_67: -1674185216
+      FINAL - ORDENADO_68: -225180299
+      FINAL - ORDENADO_69: -1710922872
+      FINAL - ORDENADO_7: 876166483
+      FINAL - ORDENADO_70: 450960789
+      FINAL - ORDENADO_71: 1788661357
+      FINAL - ORDENADO_72: 285062791
+      FINAL - ORDENADO_73: 745670634
+      FINAL - ORDENADO_74: 2008443107
+      FINAL - ORDENADO_75: 75743842
+      FINAL - ORDENADO_76: 260993488
+      FINAL - ORDENADO_8: 1855027179
+      FINAL - ORDENADO_9: -513709837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
